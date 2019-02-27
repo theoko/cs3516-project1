@@ -1,8 +1,8 @@
+# An HTTP client written in Python 2.7
+
 http_client.py
 usage: http_client.py [-h] [--ttl]
                       serverURL [serverURL ...] serverPort [serverPort ...]
-
-An HTTP client written in Python 2.7
 
 positional arguments:
   serverURL   The server URL to perform a GET request
