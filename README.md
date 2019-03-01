@@ -1,4 +1,4 @@
-# An HTTP client written in Python 2.7
+# HTTP client
 
 http_client.py
 usage: http_client.py [-h] [--ttl]
@@ -20,7 +20,7 @@ How to run:
 
 “python http_client.py —ttl www.bbc.com 80”
 
-=================
+# HTTP server
 
 http_server.py
 usage: http_server.py [-h] serverPort [serverPort ...]
